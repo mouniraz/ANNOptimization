@@ -1,7 +1,7 @@
 # ANNOptimization
-
+## Binary Classification
 ## Data Preprocessing
-using one of csv files loaded with this repository, scan the data and describe it 
+using one of csv files loaded with this repository (consider only binary classification), scan the data and describe it 
 (numbers of parameters, target, balanced or not, missing data)
 
 ## ANN Model 
